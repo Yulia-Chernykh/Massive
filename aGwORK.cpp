@@ -12,6 +12,7 @@ int main()
         A[i] = rand();
     cout << A[i];
     for (int i=0; i<8;i++)
+        ereryeyreryrer
     std::cout << "Hello World!\n";
 }
 
