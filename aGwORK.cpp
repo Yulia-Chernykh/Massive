@@ -13,6 +13,7 @@ int main()
     cout << A[i];
     for (int i=0; i<8;i++)
         ereryeyreryrer
+        rr24525wwwww
     std::cout << "Hello World!\n";
 }
 
