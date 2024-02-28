@@ -13,5 +13,6 @@ int main()
     cout << A[i];
     for (int i=0; i<8;i++)
     std::cout << "Hello World!\n";
+    yyyyrrrr
 }
 
